@@ -1,2 +1,1 @@
-import { print } from "./print";
-print();
+import * as css from "./style.css";

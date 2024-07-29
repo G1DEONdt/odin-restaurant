@@ -8,6 +8,7 @@ const homeButton = document.querySelector(".home-button");
 const menuButton = document.querySelector(".menu-button");
 const aboutButton = document.querySelector(".about-button");
 
+load(homepage);
 
 homeButton.addEventListener("click", () => {
     load(homepage);
